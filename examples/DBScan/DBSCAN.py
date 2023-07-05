@@ -13,7 +13,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # %%
-df = pd.read_csv("Mall_customers.csv")
+df = pd.read_csv("data/Mall_customers.csv")
 
 # %%
 df.head()
